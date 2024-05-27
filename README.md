@@ -19,6 +19,13 @@
 Visualizar trabajo en 
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen)](https://codepen.io/Juan-Esteban-Ar-valo/pen/QWRGLNE)
 
+<p>Visualizar trabajo en 
+    <a href="https://codepen.io/Juan-Esteban-Ar-valo/pen/QWRGLNE" target="_blank">
+        <img src="https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen" alt="CodePen">
+    </a>
+</p>
+
+
 ```bash
     git clone https://github.com/Juanes200122/Product_Filter.git
     cd Product_Filter
