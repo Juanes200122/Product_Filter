@@ -16,6 +16,9 @@
 </p>
 <p>He desarrollado un filtro de productos utilizando HTML, CSS, JavaScript y la librería Mixer.js, que se destaca por su capacidad de filtrar y ordenar productos de manera dinámica y eficiente. Para lograr este efecto, he implementado una técnica que permite la clasificación y filtrado en tiempo real, brindando una experiencia de usuario fluida y altamente interactiva. El uso de Mixer.js ha facilitado la creación de transiciones suaves y personalizables entre los diferentes estados de filtrado, ofreciendo una experiencia visual atractiva y sin interrupciones.</p>
 
+Visualizar trabajo en 
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen)](https://codepen.io/Juan-Esteban-Ar-valo/pen/QWRGLNE)
+
 ```bash
     git clone https://github.com/Juanes200122/Product_Filter.git
     cd Product_Filter
