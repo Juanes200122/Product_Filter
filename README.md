@@ -28,7 +28,7 @@
 </div>
 
 ## <b> Funcionalidad de filtrado</b>
-<img align="right" src="image/product_filter.gif" width="500"/>
+<img align="right" src="image/product_filter.gif" width="400"/>
 
 ```JS
     document.addEventListener('DOMContentLoaded', function() {
